@@ -1,14 +1,12 @@
 import React from 'react';
-import '../App.css';
 
-function Person(props) {
-    return(
-        <div className='person'>
-            <h1>{props.name}</h1>
-            <p>Your Age: {props.age}</p>
+const person = (props) => {
+    return (
+        <div>
+            <p>I'm {props.name} and I am {props.age} years old!</p>
+            <p>{props.children}</p>
         </div>
-    );
-}
+    )
+};
 
-
-export default Person;
+export default person;
