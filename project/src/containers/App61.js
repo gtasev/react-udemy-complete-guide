@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 
-import ValidationCom from './ValidationComponent/ValidationComponent'
-import Char from './Char/Char'
+import ValidationCom from '../components/ValidationComponent/ValidationComponent'
+import Char from '../components/Char/Char'
 
 class App61 extends Component {
     state = {

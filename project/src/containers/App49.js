@@ -1,8 +1,8 @@
 import React, {Component} from 'react';
 import './App49.css'
 
-import UserInput from './UserInput/UserInput';
-import UserOutput from './UserOutput/UserOutput';
+import UserInput from '../components/UserInput/UserInput';
+import UserOutput from '../components/UserOutput/UserOutput';
 
 class App49 extends Component {
     state = {
