@@ -4,11 +4,15 @@
     <list default="true" id="60910b2c-57aa-4786-95d8-776d8047a704" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/../.idea/react-udemy-complete-guide.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Char/Char.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Char/Char.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ErrorBoundary/ErrorBoundary.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App61.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App61.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ValidationComponent/ValidationComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ValidationComponent/ValidationComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person/Person.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person/Person.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person/Person.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person/Person.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -68,7 +72,7 @@
       <workItem from="1570293599536" duration="5453000" />
       <workItem from="1570369633242" duration="4110000" />
       <workItem from="1570399859312" duration="6537000" />
-      <workItem from="1570526282204" duration="4793000" />
+      <workItem from="1570526282204" duration="12914000" />
     </task>
     <servers />
   </component>
