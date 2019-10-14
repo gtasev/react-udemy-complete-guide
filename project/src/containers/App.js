@@ -52,6 +52,7 @@ class App extends Component {
   };
 
     togglePersonsHandler = () => {
+        console.log()
         const currentState = {...this.state};
         currentState.showPersons = !currentState.showPersons;
         this.setState(currentState);

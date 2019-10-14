@@ -1,6 +1,5 @@
 import React, { useEffect, useRef, useContext } from 'react';
 import classes from './Cockpit.css';
-import { clearTimeout } from 'timers';
 import { request } from 'https';
 import AuthContext from '../../context/auth-context';
 
@@ -14,11 +13,12 @@ const Cockpit = (props) => {
     useEffect(() => {
         console.log('[Cocpit.js] useEffect Hook')
         // Http request...
-        // setTimeout(() => {
+        // const timer = setTimeout(() => {
         //     alert('Saved data to cloud!')
-        // }, 1000);
+        // }, 3000);
         toggleBtnRef.current.click();
         return () => {
+            // clearTimeout(timer);
             console.log('[Cockpit.js] cleanup work in useEffect')
         }
     },[]);
